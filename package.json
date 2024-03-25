@@ -1,6 +1,6 @@
 {
-  "name": "mybasicatm",
-  "version": "1.0.0",
+  "name": "a1-mybasicatm",
+  "version": "2.0.0",
   "description": "This is my basic ATM using typescript.",
   "main": "index.js",
   "type":"module",
